@@ -53,4 +53,4 @@
       - "{{ subnetid1 }}"
       - "{{ subnetid2 }}"
     tags:
-      - environment: production
+      - environment: producti
